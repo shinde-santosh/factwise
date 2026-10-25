@@ -1,0 +1,27 @@
+======================================================================
+ BOARD       : Sprint 1  [OPEN]
+ Team        : Platform 1792916800
+ Description : First sprint
+ Created     : 25 Oct 2026 09:00 UTC
+ Closed      : -
+ Progress    : 2/2 tasks complete
+======================================================================
+
+ OPEN (0)
+----------------------------------------------------------------------
+ No tasks
+
+ IN_PROGRESS (0)
+----------------------------------------------------------------------
+ No tasks
+
+ COMPLETE (2)
+----------------------------------------------------------------------
+ #5 Build user APIs
+    Assignee : Santosh S (santosh_1792916800)
+    Created  : 25 Oct 2026 10:00 UTC
+    Notes    : Create, list and update user APIs
+ #6 Write test cases
+    Assignee : dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd (rahul_1792916800)
+    Created  : 25 Oct 2026 08:26 UTC
+    Notes    : Test every API
